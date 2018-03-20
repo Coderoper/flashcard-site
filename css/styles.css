@@ -1,18 +1,10 @@
-.clickable, .clickable2, .clickable3, .clickable4, .clickable5 {
+.clickable {
   cursor: pointer;
   color: #0088cc;
 }
 
 .clickable:hover {
   text-decoration: underLine
-}
-
-.javascript-showing {
-  display: none;
-}
-
-.operators-showing {
-  display: none;
 }
 
 .initHidden {
