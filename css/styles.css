@@ -1,4 +1,4 @@
-.clickable {
+.clickable, .clickable2, .clickable3, .clickable4, .clickable5 {
   cursor: pointer;
   color: #0088cc;
 }
@@ -12,5 +12,9 @@
 }
 
 .operators-showing {
+  display: none;
+}
+
+.initHidden {
   display: none;
 }
